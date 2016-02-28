@@ -33,7 +33,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         String message = intent.getStringExtra(MyActivity.EXTRA_MESSAGE);
         TextView textView = new TextView(this);
         textView.setTextSize(40);
-        textView.setText(message + " ES UN SHOTITO NALGA FACIL ABC");
+        textView.setText(message + " ES UN SHOTITO NALGA FACIL AgjghjghjgjghjBC");
 
         RelativeLayout layout = (RelativeLayout) findViewById(R.id.content);
         layout.addView(textView);
