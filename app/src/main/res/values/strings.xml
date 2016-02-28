@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TRABUCO APP</string>
+    <string name="edit_message">Ingresa tu nombre</string>
+    <string name="button_send">Enviar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+
+
+</resources>
